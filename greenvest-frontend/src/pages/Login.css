@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    font-family:'Inter',sans-serif;
+}
+
+.auth-page{
+    min-height:100vh;
+    background:#F5F3EF;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:40px;
+    box-sizing:border-box;
+}
